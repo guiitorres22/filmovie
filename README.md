@@ -11,7 +11,7 @@
   <li><strong>Modular React Components:</strong> The UI is split into reusable components such as Search, Spinner, MovieCard, and uses React hooks like useState and useEffect for state management.</li>
   <li><strong>Asset Handling:</strong> Images and icons are stored in the public folder and referenced properly to ensure availability in production.</li>
   <li><strong>Vite Build Setup:</strong> The project is set up with Vite for fast local development and optimized builds.</li>
-  <li><strong>Deployment with Vercel:</strong> The app is deployed on Vercel with automatic environment configuration and public hosting.</li>
+  <li><strong>Deployment with Vercel:</strong> The app is deployed on Vercel with secure environment variable management and public hosting.</li>
 </ul>
 
 <h2>Technical Stack</h2>
